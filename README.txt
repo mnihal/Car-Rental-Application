@@ -5,16 +5,16 @@ Car Rental Web Application
 Visit our app live on https://secret-mountain-75781.herokuapp.com/
 
 Super Admin Login details:
-Email: superadmin@ncsu.com    
+Email: superadmin@gmail.com    
 Password: superadmin1
 
 Admin login details:
-Email: admin@ncsu.com
-Password: adminncsu1
+Email: admin@gmail.com
+Password: admin
 
 Sample User details:
-Email: user@ncsu.com
-Password: userncsu1
+Email: user@gmail.com
+Password: user
 
 Application Features:
 
